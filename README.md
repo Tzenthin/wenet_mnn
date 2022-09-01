@@ -3,7 +3,7 @@
 
 测试使用的onnx/mnn模型下载地址：
 链接：https://pan.baidu.com/s/1c3UbfdvUrtNUotC_O_3qFA   
-密码：02h3
+密码：02h8
 
 详细的介绍，可以参考知乎文章：https://zhuanlan.zhihu.com/p/559531090?
 
